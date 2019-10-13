@@ -4,7 +4,7 @@
 
  These are all the sample programs for the C# Yellow Book which is a free download from [here](http://www.csharpcourse.com/).
 
- ![alt text](images/kindle.png "Download cover image")
+ ![alt text](images/kindle.PNG "Download cover image")
 
  You can find a Kindle version [here](https://www.amazon.com/dp/B00HNSGM9A/ref=cm_sw_em_r_mt_dp_U__s2v5BbQ8XBVTH)
 
